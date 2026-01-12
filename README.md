@@ -1,4 +1,5 @@
 # spring-boot
+
 Client → Controller → Service → Repository → Database
 
 In a Spring Boot application, we generally follow a layered architecture.
